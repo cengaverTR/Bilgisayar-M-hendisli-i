@@ -1,4 +1,4 @@
-# Bilgisayar-Mühendisliği
+# Bilgisayar Mühendisliği Nedir? Bilgisayar Mühendisi Ne İş Yapar?
 
 Bilgisayar Mühendisliği Okumak Ne Demektir ?
 Bilgisayar mühendisleri, günümüzün tüketicilerinin genellikle hafife aldığı nesneler ve hizmetler yaratır. Spesifik olarak, her gün etkileşimde bulunduğumuz bilgisayar sistemlerini tasarlar, inşa eder ve test ederler. Arabalardan tost makinelerine kadar her şeyle ilgilenen bir bilgisayar mühendisi bulmak olağandışı olmadığından, bir bilgisayar mühendisliği derecesi birçok farklı sektörde çalışmaya yol açabilir.
